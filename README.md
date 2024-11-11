@@ -13,8 +13,10 @@ AlohaBirds raises awareness of endangered Hawaiian birds by guiding users to fin
 ## Login
 
 ## Camera View
+![CameraView_Screenshot](App/Assets/Images/CameraView_Screenshot.png)
 
 ## Avidex
+![AviDex Screenshot](App/Assets/Images/Avidex_Screenshot.png)
 
 ## Bird Info
 
