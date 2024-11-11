@@ -11,7 +11,7 @@ AlohaBirds raises awareness of endangered Hawaiian birds by guiding users to fin
 # Screenshots
 
 ## Login
-<img src="App/Assets/Images/Login_Screenshot.png" alt="LoginScreenshot" width="300"/>
+<img src="App/Assets/Images/Login_Screenshot.png" alt="Login Screenshot" width="300"/>
 
 ## Camera View
 <img src="App/Assets/Images/CameraView_Screenshot.png" alt="CameraView Screenshot" width="300"/>
