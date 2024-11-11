@@ -1,5 +1,3 @@
-# Requirements
-
 # Overview
 With climate change and habitat loss, nearly half of Native Hawaiian bird species are now extinct, and many people are unaware of the significance of these endangered species. To bridge this gap, AlohaBirds is a mobile AR game designed to educate users about Hawaii's native birds in an engaging way. Similar to Pokémon GO, the app encourages users to explore different areas of the island to discover 3D models of native bird species.
 
