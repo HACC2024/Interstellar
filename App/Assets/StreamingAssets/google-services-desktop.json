@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "213261582366",
+    "project_id": "alohabirds-database",
+    "storage_bucket": "alohabirds-database.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213261582366:ios:da03d4b66668a206476e0f",
+        "android_client_info": {
+          "package_name": "com.malisalo.birdapp"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK4bUod_MX5WS-Q-1cY2DGV_sDSCRINes"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
