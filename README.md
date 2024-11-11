@@ -11,14 +11,18 @@ AlohaBirds raises awareness of endangered Hawaiian birds by guiding users to fin
 # Screenshots
 
 ## Login
+<img src="App/Assets/Images/Login_Screenshot.png" alt="LoginScreenshot" width="300"/>
 
 ## Camera View
-![CameraView_Screenshot](App/Assets/Images/CameraView_Screenshot.png)
+<img src="App/Assets/Images/CameraView_Screenshot.png" alt="CameraView Screenshot" width="300"/>
+
 
 ## Avidex
-![AviDex Screenshot](App/Assets/Images/Avidex_Screenshot.png)
+<img src="App/Assets/Images/Avidex_Screenshot.png" alt="AviDex Screenshot" width="300"/>
+
 
 ## Bird Info
+<img src="App/Assets/Images/BirdInfo_Screenshot.png" alt="BirdInfo Screenshot" width="300"/>
 
 
   
