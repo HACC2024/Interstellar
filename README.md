@@ -4,7 +4,7 @@ With climate change and habitat loss, nearly half of Native Hawaiian bird specie
 AlohaBirds raises awareness of endangered Hawaiian birds by guiding users to find and learn about different species through GPS-based augmented reality. As users move around the island, specific birds appear within a 3-feet radius, and players can take photos of them for points. Once captured on camera, the bird is added to the user's "AviDex," where they can closely inspect the 3D model and access detailed species information.
 
 # Tech Stack
-- Unity
+- Unity (Downloaded free models from Unity Asset store)
 - OpenXR (AR in Unity)
 - Blender (For 3D models)
 
