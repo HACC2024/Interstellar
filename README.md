@@ -7,7 +7,7 @@ AlohaBirds raises awareness of endangered Hawaiian birds by guiding users to fin
 - Unity
 - OpenXR (AR in Unity)
 - Blender (For 3D models)
-- 3D models was downloaded from Unity's Asset Store. The assets used can be found under the Plugins folder. 
+- Free 3D models was downloaded from Unity's Asset Store. The assets used can be found under the Plugins folder. 
 
 # Judging
 Please contact malisalo@hawaii.edu to see app or to schedule a call tech review. This app was only developed for iOS. Camera and Location on phone is needed for app.
